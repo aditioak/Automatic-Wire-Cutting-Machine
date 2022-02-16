@@ -1,5 +1,10 @@
 # Automatic-Wire-Cutting-Machine
  
+ <h3>What it does?</h3>
+As the name suggests, automated cutting of electrical wires according to user's preferred wire length and quantity which are taken as inputs by the machine
+ 
+ 
+ <br>
 <h3>Components Required (Hardware)</h3>
 <ul>
  <li>Arduino Pro Mini</li>
